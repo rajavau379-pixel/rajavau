@@ -42,8 +42,7 @@ M = '\x1b[38;5;201m'
 B = '\x1b[38;5;27m'
 P = '\x1b[38;5;200m'
 
-OUTPUT_FILE = '/sdcard/SKOUTPUT_FILE = '/sdcard/RAJA-VAU-OK.txt'4-GALIB-OK.txt'
-
+OUTPUT_FILE = '/sdcard/RAJA VAU-OK.txt'
 # ====== UPDATED PASSWORD LIST (2024-2029 accounts) ======
 MODERN_PASSWORDS = [
     '123456', '1234567', '12345678', '123456789', '1234567890',
