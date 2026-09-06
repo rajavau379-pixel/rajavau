@@ -135,8 +135,7 @@ def progress_bar(current, total, bar_length=30):
     sys.stdout.flush()
 
 def linex():
-    print(f'{G}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━{X}')
-
+    print(f'{G}--------------------------------------------------')
 def banner():
     os.system('cls' if 'win' in sys.platform else 'clear')
     print(f"""
