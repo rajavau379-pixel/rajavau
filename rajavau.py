@@ -140,12 +140,13 @@ def linex():
 def banner():
     os.system('cls' if 'win' in sys.platform else 'clear')
     print(f"""
-{Y}╭───────────────────────────────────────────────────╮
-{Y}│ {P}  >>> RAJAVAU v4.0 - 2026 EDITION <<<           {Y}│
-{Y}│ {M}  >>> SEND BY : RajaVau <<<                     {Y}│
-{Y}│ {C}  >>> TEAM : RAJA VAU CYBER TEAM <<<            {Y}│
-{Y}╰───────────────────────────────────────────────────╯
+{Y}+---------------------------------------------------+
+{Y}| {P}  >>> RAJAVAU v4.0 - 2026 EDITION <<<           {Y}|
+{Y}| {M}  >>> SEND BY : RajaVau <<<                     {Y}|
+{Y}| {C}  >>> TEAM : RAJA VAU CYBER TEAM <<<            {Y}|
+{Y}+---------------------------------------------------+
 """)
+
 
 ──────────────────────────────────────────────────╯
 def check_creation_year(uid):
